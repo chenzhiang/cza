@@ -1,0 +1,3 @@
+rootProject.name = 'cza'
+
+include ':app'
