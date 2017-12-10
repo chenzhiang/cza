@@ -17,6 +17,7 @@ import {
   Dimensions,
   PixelRatio
 } from 'react-native';
+heheda
 
 import {StackNavigator, TabNavigator} from 'react-navigation';
 
