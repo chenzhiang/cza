@@ -18,10 +18,6 @@ import {
   PixelRatio
 } from 'react-native';
 
-
-
-
-
 import {StackNavigator, TabNavigator} from 'react-navigation';
 
 import TitleBar from './app/views/TitleBar';
